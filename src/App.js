@@ -4,7 +4,7 @@ import './App.css'
 
 class App extends Component {
   constructor () {
-    super()
+    super();
     this.abc = 42
   }
 
